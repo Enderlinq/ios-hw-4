@@ -16,24 +16,24 @@
 		54CFC33425305C6500041229 /* ListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CFC33325305C6500041229 /* ListVC.swift */; };
 		54CFC34925308AFF00041229 /* PlayerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CFC34825308AFF00041229 /* PlayerVC.swift */; };
 		54CFC34D2530C53500041229 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CFC34C2530C53500041229 /* Model.swift */; };
-		F793CA53253394A3008CDDA8 /* Flaming Hot Cheetos.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA51253394A3008CDDA8 /* Flaming Hot Cheetos.mp3 */; };
-		F793CA54253394A3008CDDA8 /* 4EVER.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA52253394A3008CDDA8 /* 4EVER.mp3 */; };
-		F793CA57253394A9008CDDA8 /* Hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA56253394A9008CDDA8 /* Hello.mp3 */; };
-		F793CA5B253394B3008CDDA8 /* Breathe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA59253394B3008CDDA8 /* Breathe.mp3 */; };
-		F793CA5C253394B3008CDDA8 /* Down to Earth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA5A253394B3008CDDA8 /* Down to Earth.mp3 */; };
-		F793CA5F253394BA008CDDA8 /* Ordinary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA5E253394BA008CDDA8 /* Ordinary.mp3 */; };
-		F793CA64253395F9008CDDA8 /* Sunflower.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA62253395F9008CDDA8 /* Sunflower.mp3 */; };
-		F793CA68253395FF008CDDA8 /* Brooklyn Love .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA66253395FF008CDDA8 /* Brooklyn Love .mp3 */; };
-		F793CA69253395FF008CDDA8 /* Desert Rose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA67253395FF008CDDA8 /* Desert Rose.mp3 */; };
-		F793CA6F25339631008CDDA8 /* Jade.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA6E25339631008CDDA8 /* Jade.mp3 */; };
-		F793CA732533965F008CDDA8 /* Pluto Projector.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA712533965E008CDDA8 /* Pluto Projector.mp3 */; };
-		F793CA792533968C008CDDA8 /* Loving is Easy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA782533968C008CDDA8 /* Loving is Easy.mp3 */; };
-		F793CA7E25339760008CDDA8 /* Strawberry Blond.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA7B25339760008CDDA8 /* Strawberry Blond.mp3 */; };
-		F793CA7F25339760008CDDA8 /* Me and My Husband.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA7C25339760008CDDA8 /* Me and My Husband.mp3 */; };
-		F793CA8025339760008CDDA8 /* Washing Machine Heart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA7D25339760008CDDA8 /* Washing Machine Heart.mp3 */; };
-		F793CA86253398CB008CDDA8 /* Her's - Harvey (Official Audio).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA83253398CB008CDDA8 /* Her's - Harvey (Official Audio).mp3 */; };
-		F793CA87253398CB008CDDA8 /* Her's - What Once Was.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA84253398CB008CDDA8 /* Her's - What Once Was.mp3 */; };
-		F793CA88253398CB008CDDA8 /* Her's - Cool With You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F793CA85253398CB008CDDA8 /* Her's - Cool With You.mp3 */; };
+		F7FDEB2A2533998000D36B92 /* 4EVER.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB182533997F00D36B92 /* 4EVER.mp3 */; };
+		F7FDEB2B2533998000D36B92 /* Sunflower.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB192533997F00D36B92 /* Sunflower.mp3 */; };
+		F7FDEB2C2533998000D36B92 /* Pluto Projector.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB1A2533997F00D36B92 /* Pluto Projector.mp3 */; };
+		F7FDEB2D2533998000D36B92 /* Cool With You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB1B2533997F00D36B92 /* Cool With You.mp3 */; };
+		F7FDEB2E2533998000D36B92 /* Breathe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB1C2533997F00D36B92 /* Breathe.mp3 */; };
+		F7FDEB2F2533998000D36B92 /* Desert Rose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB1D2533997F00D36B92 /* Desert Rose.mp3 */; };
+		F7FDEB302533998000D36B92 /* Harvey.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB1E2533997F00D36B92 /* Harvey.mp3 */; };
+		F7FDEB312533998000D36B92 /* Hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB1F2533997F00D36B92 /* Hello.mp3 */; };
+		F7FDEB322533998000D36B92 /* Jade.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB202533997F00D36B92 /* Jade.mp3 */; };
+		F7FDEB332533998000D36B92 /* Brooklyn Love .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB212533997F00D36B92 /* Brooklyn Love .mp3 */; };
+		F7FDEB342533998000D36B92 /* Flaming Hot Cheetos.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB222533997F00D36B92 /* Flaming Hot Cheetos.mp3 */; };
+		F7FDEB352533998000D36B92 /* Me and My Husband.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB232533997F00D36B92 /* Me and My Husband.mp3 */; };
+		F7FDEB362533998000D36B92 /* Strawberry Blond.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB242533997F00D36B92 /* Strawberry Blond.mp3 */; };
+		F7FDEB372533998000D36B92 /* Loving is Easy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB252533997F00D36B92 /* Loving is Easy.mp3 */; };
+		F7FDEB382533998000D36B92 /* What Once Was.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB262533997F00D36B92 /* What Once Was.mp3 */; };
+		F7FDEB392533998000D36B92 /* Washing Machine Heart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB272533997F00D36B92 /* Washing Machine Heart.mp3 */; };
+		F7FDEB3A2533998000D36B92 /* Down to Earth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB282533998000D36B92 /* Down to Earth.mp3 */; };
+		F7FDEB3B2533998000D36B92 /* Ordinary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F7FDEB292533998000D36B92 /* Ordinary.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,24 +48,24 @@
 		54CFC33325305C6500041229 /* ListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVC.swift; sourceTree = "<group>"; };
 		54CFC34825308AFF00041229 /* PlayerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerVC.swift; sourceTree = "<group>"; };
 		54CFC34C2530C53500041229 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
-		F793CA51253394A3008CDDA8 /* Flaming Hot Cheetos.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Flaming Hot Cheetos.mp3"; path = "../../../Downloads/Flaming Hot Cheetos.mp3"; sourceTree = "<group>"; };
-		F793CA52253394A3008CDDA8 /* 4EVER.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 4EVER.mp3; path = ../../../Downloads/4EVER.mp3; sourceTree = "<group>"; };
-		F793CA56253394A9008CDDA8 /* Hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Hello.mp3; path = ../../../Downloads/Hello.mp3; sourceTree = "<group>"; };
-		F793CA59253394B3008CDDA8 /* Breathe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Breathe.mp3; path = ../../../Downloads/Breathe.mp3; sourceTree = "<group>"; };
-		F793CA5A253394B3008CDDA8 /* Down to Earth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Down to Earth.mp3"; path = "../../../Downloads/Down to Earth.mp3"; sourceTree = "<group>"; };
-		F793CA5E253394BA008CDDA8 /* Ordinary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Ordinary.mp3; path = ../../../Downloads/Ordinary.mp3; sourceTree = "<group>"; };
-		F793CA62253395F9008CDDA8 /* Sunflower.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Sunflower.mp3; path = ../../../Downloads/Sunflower.mp3; sourceTree = "<group>"; };
-		F793CA66253395FF008CDDA8 /* Brooklyn Love .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Brooklyn Love .mp3"; path = "../../../Downloads/Brooklyn Love .mp3"; sourceTree = "<group>"; };
-		F793CA67253395FF008CDDA8 /* Desert Rose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Desert Rose.mp3"; path = "../../../Downloads/Desert Rose.mp3"; sourceTree = "<group>"; };
-		F793CA6E25339631008CDDA8 /* Jade.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Jade.mp3; path = ../../../Downloads/Jade.mp3; sourceTree = "<group>"; };
-		F793CA712533965E008CDDA8 /* Pluto Projector.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Pluto Projector.mp3"; path = "../../../Downloads/Pluto Projector.mp3"; sourceTree = "<group>"; };
-		F793CA782533968C008CDDA8 /* Loving is Easy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Loving is Easy.mp3"; path = "../../../Downloads/Loving is Easy.mp3"; sourceTree = "<group>"; };
-		F793CA7B25339760008CDDA8 /* Strawberry Blond.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Strawberry Blond.mp3"; path = "../../../Downloads/Strawberry Blond.mp3"; sourceTree = "<group>"; };
-		F793CA7C25339760008CDDA8 /* Me and My Husband.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Me and My Husband.mp3"; path = "../../../Downloads/Me and My Husband.mp3"; sourceTree = "<group>"; };
-		F793CA7D25339760008CDDA8 /* Washing Machine Heart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Washing Machine Heart.mp3"; path = "../../../Downloads/Washing Machine Heart.mp3"; sourceTree = "<group>"; };
-		F793CA83253398CB008CDDA8 /* Her's - Harvey (Official Audio).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Her's - Harvey (Official Audio).mp3"; path = "../../../Downloads/Her's - Harvey (Official Audio).mp3"; sourceTree = "<group>"; };
-		F793CA84253398CB008CDDA8 /* Her's - What Once Was.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Her's - What Once Was.mp3"; path = "../../../Downloads/Her's - What Once Was.mp3"; sourceTree = "<group>"; };
-		F793CA85253398CB008CDDA8 /* Her's - Cool With You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Her's - Cool With You.mp3"; path = "../../../Downloads/Her's - Cool With You.mp3"; sourceTree = "<group>"; };
+		F7FDEB182533997F00D36B92 /* 4EVER.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 4EVER.mp3; path = audios/4EVER.mp3; sourceTree = "<group>"; };
+		F7FDEB192533997F00D36B92 /* Sunflower.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Sunflower.mp3; path = audios/Sunflower.mp3; sourceTree = "<group>"; };
+		F7FDEB1A2533997F00D36B92 /* Pluto Projector.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Pluto Projector.mp3"; path = "audios/Pluto Projector.mp3"; sourceTree = "<group>"; };
+		F7FDEB1B2533997F00D36B92 /* Cool With You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Cool With You.mp3"; path = "audios/Cool With You.mp3"; sourceTree = "<group>"; };
+		F7FDEB1C2533997F00D36B92 /* Breathe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Breathe.mp3; path = audios/Breathe.mp3; sourceTree = "<group>"; };
+		F7FDEB1D2533997F00D36B92 /* Desert Rose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Desert Rose.mp3"; path = "audios/Desert Rose.mp3"; sourceTree = "<group>"; };
+		F7FDEB1E2533997F00D36B92 /* Harvey.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Harvey.mp3; path = audios/Harvey.mp3; sourceTree = "<group>"; };
+		F7FDEB1F2533997F00D36B92 /* Hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Hello.mp3; path = audios/Hello.mp3; sourceTree = "<group>"; };
+		F7FDEB202533997F00D36B92 /* Jade.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Jade.mp3; path = audios/Jade.mp3; sourceTree = "<group>"; };
+		F7FDEB212533997F00D36B92 /* Brooklyn Love .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Brooklyn Love .mp3"; path = "audios/Brooklyn Love .mp3"; sourceTree = "<group>"; };
+		F7FDEB222533997F00D36B92 /* Flaming Hot Cheetos.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Flaming Hot Cheetos.mp3"; path = "audios/Flaming Hot Cheetos.mp3"; sourceTree = "<group>"; };
+		F7FDEB232533997F00D36B92 /* Me and My Husband.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Me and My Husband.mp3"; path = "audios/Me and My Husband.mp3"; sourceTree = "<group>"; };
+		F7FDEB242533997F00D36B92 /* Strawberry Blond.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Strawberry Blond.mp3"; path = "audios/Strawberry Blond.mp3"; sourceTree = "<group>"; };
+		F7FDEB252533997F00D36B92 /* Loving is Easy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Loving is Easy.mp3"; path = "audios/Loving is Easy.mp3"; sourceTree = "<group>"; };
+		F7FDEB262533997F00D36B92 /* What Once Was.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "What Once Was.mp3"; path = "audios/What Once Was.mp3"; sourceTree = "<group>"; };
+		F7FDEB272533997F00D36B92 /* Washing Machine Heart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Washing Machine Heart.mp3"; path = "audios/Washing Machine Heart.mp3"; sourceTree = "<group>"; };
+		F7FDEB282533998000D36B92 /* Down to Earth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Down to Earth.mp3"; path = "audios/Down to Earth.mp3"; sourceTree = "<group>"; };
+		F7FDEB292533998000D36B92 /* Ordinary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Ordinary.mp3; path = audios/Ordinary.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,24 +116,24 @@
 		F793CA502533948E008CDDA8 /* audios */ = {
 			isa = PBXGroup;
 			children = (
-				F793CA52253394A3008CDDA8 /* 4EVER.mp3 */,
-				F793CA51253394A3008CDDA8 /* Flaming Hot Cheetos.mp3 */,
-				F793CA56253394A9008CDDA8 /* Hello.mp3 */,
-				F793CA59253394B3008CDDA8 /* Breathe.mp3 */,
-				F793CA5A253394B3008CDDA8 /* Down to Earth.mp3 */,
-				F793CA5E253394BA008CDDA8 /* Ordinary.mp3 */,
-				F793CA712533965E008CDDA8 /* Pluto Projector.mp3 */,
-				F793CA782533968C008CDDA8 /* Loving is Easy.mp3 */,
-				F793CA62253395F9008CDDA8 /* Sunflower.mp3 */,
-				F793CA66253395FF008CDDA8 /* Brooklyn Love .mp3 */,
-				F793CA67253395FF008CDDA8 /* Desert Rose.mp3 */,
-				F793CA6E25339631008CDDA8 /* Jade.mp3 */,
-				F793CA7C25339760008CDDA8 /* Me and My Husband.mp3 */,
-				F793CA7D25339760008CDDA8 /* Washing Machine Heart.mp3 */,
-				F793CA7B25339760008CDDA8 /* Strawberry Blond.mp3 */,
-				F793CA85253398CB008CDDA8 /* Her's - Cool With You.mp3 */,
-				F793CA83253398CB008CDDA8 /* Her's - Harvey (Official Audio).mp3 */,
-				F793CA84253398CB008CDDA8 /* Her's - What Once Was.mp3 */,
+				F7FDEB182533997F00D36B92 /* 4EVER.mp3 */,
+				F7FDEB1C2533997F00D36B92 /* Breathe.mp3 */,
+				F7FDEB212533997F00D36B92 /* Brooklyn Love .mp3 */,
+				F7FDEB1D2533997F00D36B92 /* Desert Rose.mp3 */,
+				F7FDEB282533998000D36B92 /* Down to Earth.mp3 */,
+				F7FDEB222533997F00D36B92 /* Flaming Hot Cheetos.mp3 */,
+				F7FDEB1F2533997F00D36B92 /* Hello.mp3 */,
+				F7FDEB1B2533997F00D36B92 /* Cool With You.mp3 */,
+				F7FDEB1E2533997F00D36B92 /* Harvey.mp3 */,
+				F7FDEB262533997F00D36B92 /* What Once Was.mp3 */,
+				F7FDEB202533997F00D36B92 /* Jade.mp3 */,
+				F7FDEB252533997F00D36B92 /* Loving is Easy.mp3 */,
+				F7FDEB232533997F00D36B92 /* Me and My Husband.mp3 */,
+				F7FDEB292533998000D36B92 /* Ordinary.mp3 */,
+				F7FDEB1A2533997F00D36B92 /* Pluto Projector.mp3 */,
+				F7FDEB242533997F00D36B92 /* Strawberry Blond.mp3 */,
+				F7FDEB192533997F00D36B92 /* Sunflower.mp3 */,
+				F7FDEB272533997F00D36B92 /* Washing Machine Heart.mp3 */,
 			);
 			name = audios;
 			sourceTree = "<group>";
@@ -195,27 +195,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F793CA8025339760008CDDA8 /* Washing Machine Heart.mp3 in Resources */,
-				F793CA5B253394B3008CDDA8 /* Breathe.mp3 in Resources */,
-				F793CA69253395FF008CDDA8 /* Desert Rose.mp3 in Resources */,
 				54CFC32B2530593F00041229 /* LaunchScreen.storyboard in Resources */,
-				F793CA53253394A3008CDDA8 /* Flaming Hot Cheetos.mp3 in Resources */,
-				F793CA64253395F9008CDDA8 /* Sunflower.mp3 in Resources */,
-				F793CA54253394A3008CDDA8 /* 4EVER.mp3 in Resources */,
-				F793CA7E25339760008CDDA8 /* Strawberry Blond.mp3 in Resources */,
-				F793CA5F253394BA008CDDA8 /* Ordinary.mp3 in Resources */,
-				F793CA87253398CB008CDDA8 /* Her's - What Once Was.mp3 in Resources */,
-				F793CA86253398CB008CDDA8 /* Her's - Harvey (Official Audio).mp3 in Resources */,
-				F793CA792533968C008CDDA8 /* Loving is Easy.mp3 in Resources */,
-				F793CA57253394A9008CDDA8 /* Hello.mp3 in Resources */,
-				F793CA6F25339631008CDDA8 /* Jade.mp3 in Resources */,
+				F7FDEB312533998000D36B92 /* Hello.mp3 in Resources */,
+				F7FDEB2C2533998000D36B92 /* Pluto Projector.mp3 in Resources */,
+				F7FDEB372533998000D36B92 /* Loving is Easy.mp3 in Resources */,
+				F7FDEB342533998000D36B92 /* Flaming Hot Cheetos.mp3 in Resources */,
+				F7FDEB362533998000D36B92 /* Strawberry Blond.mp3 in Resources */,
+				F7FDEB392533998000D36B92 /* Washing Machine Heart.mp3 in Resources */,
+				F7FDEB2A2533998000D36B92 /* 4EVER.mp3 in Resources */,
+				F7FDEB322533998000D36B92 /* Jade.mp3 in Resources */,
+				F7FDEB352533998000D36B92 /* Me and My Husband.mp3 in Resources */,
+				F7FDEB3B2533998000D36B92 /* Ordinary.mp3 in Resources */,
+				F7FDEB302533998000D36B92 /* Harvey.mp3 in Resources */,
+				F7FDEB2F2533998000D36B92 /* Desert Rose.mp3 in Resources */,
+				F7FDEB2B2533998000D36B92 /* Sunflower.mp3 in Resources */,
+				F7FDEB3A2533998000D36B92 /* Down to Earth.mp3 in Resources */,
+				F7FDEB2D2533998000D36B92 /* Cool With You.mp3 in Resources */,
 				54CFC3282530593F00041229 /* Assets.xcassets in Resources */,
-				F793CA88253398CB008CDDA8 /* Her's - Cool With You.mp3 in Resources */,
-				F793CA7F25339760008CDDA8 /* Me and My Husband.mp3 in Resources */,
-				F793CA5C253394B3008CDDA8 /* Down to Earth.mp3 in Resources */,
-				F793CA732533965F008CDDA8 /* Pluto Projector.mp3 in Resources */,
+				F7FDEB332533998000D36B92 /* Brooklyn Love .mp3 in Resources */,
+				F7FDEB382533998000D36B92 /* What Once Was.mp3 in Resources */,
+				F7FDEB2E2533998000D36B92 /* Breathe.mp3 in Resources */,
 				54CFC3262530593F00041229 /* Main.storyboard in Resources */,
-				F793CA68253395FF008CDDA8 /* Brooklyn Love .mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
